@@ -1,0 +1,14 @@
+C:\Users\hp\Documents\CSharp\SimpleCalculator\bin\Debug\net7.0\SimpleCalculator.exe
+C:\Users\hp\Documents\CSharp\SimpleCalculator\bin\Debug\net7.0\SimpleCalculator.deps.json
+C:\Users\hp\Documents\CSharp\SimpleCalculator\bin\Debug\net7.0\SimpleCalculator.runtimeconfig.json
+C:\Users\hp\Documents\CSharp\SimpleCalculator\bin\Debug\net7.0\SimpleCalculator.dll
+C:\Users\hp\Documents\CSharp\SimpleCalculator\bin\Debug\net7.0\SimpleCalculator.pdb
+C:\Users\hp\Documents\CSharp\SimpleCalculator\obj\Debug\net7.0\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\CSharp\SimpleCalculator\obj\Debug\net7.0\SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\CSharp\SimpleCalculator\obj\Debug\net7.0\SimpleCalculator.AssemblyInfo.cs
+C:\Users\hp\Documents\CSharp\SimpleCalculator\obj\Debug\net7.0\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\CSharp\SimpleCalculator\obj\Debug\net7.0\SimpleCalculator.dll
+C:\Users\hp\Documents\CSharp\SimpleCalculator\obj\Debug\net7.0\refint\SimpleCalculator.dll
+C:\Users\hp\Documents\CSharp\SimpleCalculator\obj\Debug\net7.0\SimpleCalculator.pdb
+C:\Users\hp\Documents\CSharp\SimpleCalculator\obj\Debug\net7.0\SimpleCalculator.genruntimeconfig.cache
+C:\Users\hp\Documents\CSharp\SimpleCalculator\obj\Debug\net7.0\ref\SimpleCalculator.dll
